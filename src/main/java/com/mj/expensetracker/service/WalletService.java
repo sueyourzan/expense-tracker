@@ -2,7 +2,7 @@ package com.mj.expensetracker.service;
 
 import com.mj.expensetracker.dto.WalletDTO;
 import com.mj.expensetracker.entity.Wallet;
-import com.mj.expensetracker.entity.User;;
+import com.mj.expensetracker.entity.User;
 import com.mj.expensetracker.exception.ResourceNotFoundException;
 import com.mj.expensetracker.repository.WalletRepository;
 import lombok.RequiredArgsConstructor;
